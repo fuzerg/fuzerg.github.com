@@ -137,17 +137,23 @@ body{
 	font-size: 2.2em;
 	font-weight: 800;
 	text-transform: capitalize;
+	padding-bottom: 20px;
 }
 .grid2 p{
 	color: #2A323A;
 	font-size: 1.4em;
 	line-height: 1.5em;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.grid2 p a{
+	color: #00F
 }
 .grid2{
 	background:url('../images/bg.png');
-	text-align:center;
-	padding: 90px 0px;
+	text-align:left;
+	padding: 20px 90px;
 }
 /*----grid3-----*/
 .grid3{
